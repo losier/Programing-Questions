@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question5 {
+public class main {
 
     static void grade(int score) {
         if (score > 70) {

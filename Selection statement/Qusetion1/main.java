@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question1 {
+public class main {
     static void EverOrOdd() {
         int n;
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question3 {
+public class main {
     static void StudentDiscount(int n) {
         float discount;
 
