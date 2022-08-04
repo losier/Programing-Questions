@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question1 {
+public class main {
 
     static void SquareAndCude() {
         Scanner input = new Scanner(System.in);
