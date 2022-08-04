@@ -1,0 +1,8 @@
+1. Write a program using following menus:
+    Choice 1: Accept a number and find out its square and cude.
+    Choice 2: Check whether the given year is LEAP or not.
+
+2. Write a program using switch cqse for arithmetic operation on two numbers,
+    If user enters an operator as choice, the approptiate operation should perform.
+    i.e + is for addition
+        - is for subtraction
