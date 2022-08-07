@@ -1,0 +1,30 @@
+1. Write a program to compare two strings using strcmp()
+
+2. Write a program to concatenate two strings without using library function.
+
+3. Write a program to convert uppper-case string into lower-case and vice versa.
+    Write your own functions  for the same.
+
+4. Find the character (or sub-string) in a string without using library function. And print its ASCII value.
+
+5. Eliminate vowels from string
+
+6. Write a program to check a string is palindrome.
+
+7. Write a program to count number of blank spaces in your paragraph whithout using string function and write it in your own function
+
+8. Write a program to reverse the sentence or string without using library function.
+    For example:
+        "Hi all"
+        reverse 1:  "all Hi"
+        reverse 2: "lla iH"
+
+9. Write a program to convert alternate character of the string to uppercase. the first letter of string has to be capital
+    Input: "We are the world"
+    Output: "We ArE tHe WoRlD"
+
+10. Write a program to transform string of lowercase character by replacing each letter with subsequent character.
+
+11. Write a program to count different types of characters in given string.
+
+12. Dynamically read a string and sirt it using bubble sort.
